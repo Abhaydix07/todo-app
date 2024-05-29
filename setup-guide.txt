@@ -1,0 +1,7 @@
+PHP -  8.2.16 
+Composer - 2.4.1
+
+2. composer i
+3. setup db configuration in .env
+4. run command php artisan migrate
+5. serve project php artisan serve
